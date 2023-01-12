@@ -1,0 +1,1 @@
+Auto-clicker to help with enrolling in classes at Duke by clicking at the most precise time necessary.
